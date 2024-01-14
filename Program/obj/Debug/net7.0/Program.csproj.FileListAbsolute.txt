@@ -1,0 +1,14 @@
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\bin\Debug\net7.0\Program.exe
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\bin\Debug\net7.0\Program.deps.json
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\bin\Debug\net7.0\Program.dll
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\bin\Debug\net7.0\Program.pdb
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.dll
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\refint\Program.dll
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.pdb
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+D:\Coding\CSharpProjects\Facultate\Conversii-ASC\Program\obj\Debug\net7.0\ref\Program.dll
